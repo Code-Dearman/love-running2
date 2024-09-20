@@ -102,6 +102,20 @@ main {
     margin-bottom: 20px;
 }
 
+#benefits-physical > div, #benefits-mental > div {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+#benefits-physical > div > p, #benefits-mental > div > p {
+    padding: 0 20px;
+}
+
+hr {
+    border-top: 1px solid #3a3a3a;
+    margin: 5px 0;
+}
+
 /* Hero Section */
 #hero {
     height: 600px;
